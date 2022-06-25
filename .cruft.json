@@ -1,0 +1,16 @@
+{
+  "template": "https://github.com/brisberg/cruft-typescript-pkg",
+  "commit": "44fbc85a0f6b9cf038b6b5d0d6b847a3ca250042",
+  "context": {
+    "cookiecutter": {
+      "full_name": "Brandon Risberg",
+      "email": "brandon.risberg@gmail.com",
+      "github_username": "brisberg",
+      "project_name": "delve-game",
+      "description": "Solo Map-drawing game based on Delve.",
+      "version": "0.1.0",
+      "_template": "https://github.com/brisberg/cruft-typescript-pkg"
+    }
+  },
+  "directory": null
+}
